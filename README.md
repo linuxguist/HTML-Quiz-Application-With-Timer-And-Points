@@ -5,3 +5,5 @@ If needed, you can change the value of the Timer from 15 seconds to any other va
 If necessary, Please change the charset="UTF-8" to charset="Your Charset" to match your language's charset value in the index.html file. Check Google if you need to know your language's html charset value.
 
 This application is useful For All Students & Teachers.
+
+It can work offline, without needing an Internet Connection.
