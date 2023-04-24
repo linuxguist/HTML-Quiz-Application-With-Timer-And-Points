@@ -7,3 +7,5 @@ If necessary, Please change the charset="UTF-8" to charset="Your Charset" to mat
 This application is useful For All Students & Teachers.
 
 It can work offline, without needing an Internet Connection.
+
+Also, run this application on your internet browsers in Kiosk mode, for maximum security. For details, please refer : https://ostechnix.com/launch-web-browsers-in-kiosk-mode-full-screen-from-cli/
