@@ -10,6 +10,8 @@ It can work offline, without needing an Internet Connection.
 
 Also, run this application on your internet browsers in Kiosk mode, for maximum security. For details, please refer : https://ostechnix.com/launch-web-browsers-in-kiosk-mode-full-screen-from-cli/
 
+A Completely Free Kiosk Operating System is also available at : https://porteus-kiosk.org/
+
 Have a look at the Video ( https://youtu.be/D9xfd6eaUVQ ) for some features. As usual, many aspects of this application have got enhanced, since I took this video.
 
 
